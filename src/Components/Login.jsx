@@ -56,7 +56,7 @@ const Login = () => {
     }
 
     return (
-        <div className="d-flex justify-content-center align-items-center vh-100 loginPage">
+        <div className="d-flex justify-content-center align-items-center vh-100 login-page">
             <div className="p-3 rounded w-25 border loginForm">
                 {!loading &&
                     <>
